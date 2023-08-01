@@ -22,17 +22,16 @@ At Albion Tracker, we believe in fostering a thriving Albion Online community. A
 
 - **Community-Driven Data**: Albion Tracker relies on community-driven data to ensure the radar's accuracy and relevancy. Contribute to the community by updating and sharing information for the benefit of all players.
 
-## Current State of Development 🛠️
 
 ## Getting Started 🛡️
 
 Getting started with Albion Tracker is easy! Simply follow these steps to enhance your Albion Online gameplay:
 
-1. **Download AO Radar**: Visit the [Releases](https://github.com/AlbionTracker/AlbionTracker/releases) page in our GitHub repository. Download the latest version of AO Radar that matches your operating system.
+1. **Download AT Radar**: Visit the [Releases](https://github.com/henian16/albionradar/releases/tag/Pre-release) page in our GitHub repository. Download the latest version of AT Radar that matches your operating system.
 
-2. **Launch AO Radar**: Once the download is complete, launch AO Radar on your device. The tool works by scanning your Albion Online game client for information and then displaying it on the overlay map.
+2. **Launch AT Radar**: Once the download is complete, launch AT Radar on your device. The tool works by scanning your Albion Online game client for information and then displaying it on the overlay map.
 
-3. **Get in the Game**: With AO Radar up and running, dive into Albion Online and embark on your adventures! Keep a close watch on the real-time radar map to detect nearby players, resources, and threats. Customize your alerts to receive notifications for crucial in-game events.
+3. **Get in the Game**: With AT Radar up and running, dive into Albion Online and embark on your adventures! Keep a close watch on the real-time radar map to detect nearby players, resources, and threats. Customize your alerts to receive notifications for crucial in-game events.
 
 Feel the difference as you navigate the game world with Albion Tracker's valuable insights at your disposal!
 
@@ -40,7 +39,7 @@ Feel the difference as you navigate the game world with Albion Tracker's valuabl
 
 Have questions, suggestions, or want to connect with fellow Albion Online players? Join our Discord community to stay updated and engage in discussions.
 
-[![Albion Tracker Discord](https://yourdomain.com/discord.png)](https://discord.gg/your_discord_invite_link)
+[![Albion Tracker Discord](https://yourdomain.com/discord.png)](https://discord.gg/PmayVMtf95)
 
 ## License 📜
 
@@ -76,7 +75,7 @@ We extend our sincere gratitude to the Albion Online community for their continu
 
 ## Version History 📜
 
-- **v0.1.0 (2023-07-31)**: Initial release with basic radar functionality and customizable alerts.
+- **v0.1.0 (2023-07-17)**: Initial release with basic radar functionality and customizable alerts.
 
 ## Please Note
 
